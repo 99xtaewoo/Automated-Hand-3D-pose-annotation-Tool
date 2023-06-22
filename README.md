@@ -26,7 +26,7 @@ To save the hand pose, click the "Save" button, which will save the MANO paramet
 
   * MANO file
 
-This ndarray contains 51 values. The first 3 values contain the global 3D root joint location (x: increases going right. y: increases going down. z: increases going away from camera origin). The next 3 values contain the global orientation for the hand pose (rotational values for the root joint). The remaining 45 values contain rotations for 15 hand joints (finger tip does not have a rotation).
+This ndarray contains 51 values. The first 3 values contain the global 3D root joint location 
 
   * 3D Global Keypoints file
 
